@@ -1,0 +1,17 @@
+E:\repos\DotNet\Matrix\bin\Debug\Matrix.exe.config
+E:\repos\DotNet\Matrix\bin\Debug\Matrix.exe
+E:\repos\DotNet\Matrix\bin\Debug\Matrix.pdb
+E:\repos\DotNet\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+E:\repos\DotNet\Matrix\obj\Debug\Matrix.exe
+E:\repos\DotNet\Matrix\obj\Debug\Matrix.pdb
+E:\repos\DotNet\Matrix\bin\Debug\Matrix2.txt
+E:\repos\DotNet\Matrix\bin\Debug\Matrix1.txt
+E:\repos\DotNet\Matrix\bin\Debug\Output.txt
+D:\repos\DotNet\Matrix\bin\Debug\Matrix2.txt
+D:\repos\DotNet\Matrix\bin\Debug\Matrix1.txt
+D:\repos\DotNet\Matrix\bin\Debug\Matrix.exe.config
+D:\repos\DotNet\Matrix\bin\Debug\Matrix.exe
+D:\repos\DotNet\Matrix\bin\Debug\Matrix.pdb
+D:\repos\DotNet\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+D:\repos\DotNet\Matrix\obj\Debug\Matrix.exe
+D:\repos\DotNet\Matrix\obj\Debug\Matrix.pdb
